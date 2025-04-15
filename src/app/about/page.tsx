@@ -47,13 +47,13 @@ export default function AboutPage() {
                 className="profile-image"
               />
               <div className="profile-social">
-                <Link href="https://github.com/yourusername" target="_blank" className="social-link">
+                <Link href="https://github.com/surakshya-creator/" target="_blank" className="social-link">
                   <Github size={20} />
                 </Link>
                 <Link href="https://linkedin.com/in/yourusername" target="_blank" className="social-link">
                   <Linkedin size={20} />
                 </Link>
-                <Link href="mailto:your.email@example.com" className="social-link">
+                <Link href="mailto:surakchya1234@gmail.com" className="social-link">
                   <Mail size={20} />
                 </Link>
               </div>
@@ -63,7 +63,7 @@ export default function AboutPage() {
             </div>
             <div className="profile-details">
               <h2 className="profile-name">Er. Suraksha Regmi</h2>
-              <p className="profile-role">Full-stack Developer </p>
+              <p className="profile-role">Computer Engineer </p>
 
               <div className="profile-info">
                 <div className="info-item">
