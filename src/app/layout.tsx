@@ -31,9 +31,9 @@ export default function RootLayout({
           </div>
         </nav>
         <main className="container">{children}</main>
-        <footer className="footer">
-          <div className="container">
-            <p>© 2023 Portfolio. All rights reserved.</p>
+        <footer className="footer style={{ textAlign: center}}">
+          <div className="container " >
+            <p>  ©{new Date().getFullYear()} Suraksha Regmi. All rights reserved.</p>
           </div>
         </footer>
       </body>
