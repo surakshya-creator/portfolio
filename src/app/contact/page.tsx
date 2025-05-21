@@ -7,7 +7,7 @@ export default function ContactPage() {
       <section className="page-header">
         <div className="container">
           <h1 className="page-title">Get In Touch</h1>
-          <p className="page-subtitle">Let's discuss your project</p>
+          <p className="page-subtitle">Let&aposms discuss your project</p>
         </div>
       </section>
 
@@ -17,7 +17,7 @@ export default function ContactPage() {
             <div className="contact-info">
               <h2 className="info-title">Contact Information</h2>
               <p className="info-subtitle">
-                Feel free to reach out to me through any of these channels. I'm always open to discussing new projects,
+                Feel free to reach out to me through any of these channels. I&aposmm always open to discussing new projects,
                 creative ideas, or opportunities to be part of your vision.
               </p>
 
@@ -115,7 +115,7 @@ export default function ContactPage() {
                     id="message"
                     name="message"
                     className="form-textarea"
-                    placeholder="Hello, I'd like to talk about..."
+                    placeholder="Hello, I&aposmd like to talk about..."
                     rows={5}
                     required
                   ></textarea>
@@ -143,7 +143,7 @@ export default function ContactPage() {
               {
                 question: "How long does it take to complete a project?",
                 answer:
-                  "Project timelines vary based on complexity and scope. A simple website might take 2-4 weeks, while a complex web application could take 2-3 months or more. I'll provide a detailed timeline during our initial consultation.",
+                  "Project timelines vary based on complexity and scope. A simple website might take 2-4 weeks, while a complex web application could take 2-3 months or more. I&aposmll provide a detailed timeline during our initial consultation.",
               },
               {
                 question: "Do you offer maintenance services after project completion?",

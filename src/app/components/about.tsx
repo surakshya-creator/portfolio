@@ -55,24 +55,24 @@ export default function About() {
             <h1 className="text-3xl font-bold tracking-tight mb-4">About Me</h1>
             <div className="prose max-w-none">
               <p>
-                Hello! I'm <strong>Er. Suraksha Regmi</strong>, a passionate full-stack developer with a focus on creating
+                Hello! I&aposmm <strong>Er. Suraksha Regmi</strong>, a passionate full-stack developer with a focus on creating
                 beautiful, functional, and user-friendly web applications. With over X years of experience in web
-                development, I've had the opportunity to work on a variety of projects ranging from small business
+                development, I&aposmve had the opportunity to work on a variety of projects ranging from small business
                 websites to complex enterprise applications.
               </p>
               <p>
                 My journey in web development began when I was studying Computer Science at University Name. Since then,
-                I've been constantly learning and adapting to new technologies and methodologies to stay at the
+                I&aposmve been constantly learning and adapting to new technologies and methodologies to stay at the
                 forefront of the industry.
               </p>
               <p>
                 I specialize in modern JavaScript frameworks like React and Next.js, and I have extensive experience
-                with backend technologies including Node.js and Django. I'm passionate about creating responsive,
+                with backend technologies including Node.js and Django. I&aposmm passionate about creating responsive,
                 accessible, and performant web applications that provide an excellent user experience across all
                 devices.
               </p>
               <p>
-                When I'm not coding, you can find me hiking in the mountains, reading science fiction, or experimenting
+                When I&aposmm not coding, you can find me hiking in the mountains, reading science fiction, or experimenting
                 with new recipes in the kitchen.
               </p>
             </div>
@@ -85,7 +85,7 @@ export default function About() {
                 <h3 className="text-xl font-semibold">Senior Frontend Developer</h3>
                 <p className="text-muted-foreground">Company Name • 2021 - Present</p>
                 <ul className="list-disc list-inside mt-2 text-muted-foreground">
-                  <li>Led the development of the company's flagship product using Next.js and TypeScript</li>
+                  <li>Led the development of the company&aposms flagship product using Next.js and TypeScript</li>
                   <li>Implemented responsive designs and improved performance by 40%</li>
                   <li>Mentored junior developers and conducted code reviews</li>
                 </ul>

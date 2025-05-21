@@ -85,7 +85,7 @@ export default function ProjectsPage() {
       description:
         "A recipe finder application that allows users to search for recipes by ingredients, dietary restrictions, and meal types. Includes user accounts and saved recipes.",
       longDescription:
-        "This recipe finder helps users discover new meals based on what they have in their kitchen. Users can search by ingredients, filter by dietary restrictions, and browse by meal types. The application includes user accounts where favorite recipes can be saved, and there's a meal planning feature to help users organize their weekly meals.",
+        "This recipe finder helps users discover new meals based on what they have in their kitchen. Users can search by ingredients, filter by dietary restrictions, and browse by meal types. The application includes user accounts where favorite recipes can be saved, and there&aposms a meal planning feature to help users organize their weekly meals.",
       image: "/placeholder.svg?height=600&width=800&text=Recipe+Finder",
       screenshots: [
         "/placeholder.svg?height=300&width=500&text=Recipe+Screenshot+1",
@@ -254,7 +254,7 @@ export default function ProjectsPage() {
           <div className="cta-content">
             <h2 className="cta-title">Interested in working together?</h2>
             <p className="cta-description">
-              I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+              I&aposmm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
             </p>
             <Link href="/contact" className="btn btn-primary">
               Get in Touch
