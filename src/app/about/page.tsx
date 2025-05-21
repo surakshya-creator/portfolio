@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-import { Download, Github, Linkedin, Mail, MapPin, Calendar, Briefcase, GraduationCap } from "lucide-react"
+import { Download, Github, Linkedin, Mail, MapPin, Calendar, GraduationCap } from "lucide-react"
 import ImageGallery from "../components/image-gallery"
 
 export default function AboutPage() {
@@ -86,24 +86,24 @@ export default function AboutPage() {
                 <p>
                 <br/>
 
-                  Hello! I'm Er. Suraksha Regmi, a passionate full-stack developer with a focus on creating beautiful,
+                  Hello! I&aposm Er. Suraksha Regmi, a passionate full-stack developer with a focus on creating beautiful,
                   functional, and user-friendly web applications. With over 5 years of experience in web development,
-                  I've had the opportunity to work on a variety of projects ranging from small business websites to
+                  I&aposve had the opportunity to work on a variety of projects ranging from small business websites to
                   complex enterprise applications.
                 </p>
                 <p>
                   My journey in web development began when I was studying Computer Science at Tribhuvan University.
-                  Since then, I've been constantly learning and adapting to new technologies and methodologies to stay
+                  Since then, I&aposve been constantly learning and adapting to new technologies and methodologies to stay
                   at the forefront of the industry.
                 </p>
                 <p>
                   I specialize in modern JavaScript frameworks like React and Next.js, and I have extensive experience
-                  with backend technologies including Node.js and Django. I'm passionate about creating responsive,
+                  with backend technologies including Node.js and Django. I&aposm passionate about creating responsive,
                   accessible, and performant web applications that provide an excellent user experience across all
                   devices.
                 </p>
                 <p>
-                  When I'm not coding, you can find me hiking in the mountains, reading science fiction, or
+                  When I&aposm not coding, you can find me hiking in the mountains, reading science fiction, or
                   experimenting with new recipes in the kitchen.
                 </p>
               </div>
@@ -139,7 +139,7 @@ export default function AboutPage() {
                   
                 </div>
                 <ul className="timeline-description">
-                  <li>Lead the development of the company's flagship product using Next.js and TypeScript</li>
+                  <li>Lead the development of the company&aposs flagship product using Next.js and TypeScript</li>
                   <li>Implement responsive designs and improve performance by 40%</li>
                   <li>Mentor junior developers and conduct code reviews</li>
                   <li>Collaborate with designers and product managers to create intuitive user interfaces</li>
