@@ -254,7 +254,7 @@ export default function ProjectsPage() {
           <div className="cta-content">
             <h2 className="cta-title">Interested in working together?</h2>
             <p className="cta-description">
-              I&aposmm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+              I&aposm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
             </p>
             <Link href="/contact" className="btn btn-primary">
               Get in Touch

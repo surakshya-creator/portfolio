@@ -43,7 +43,7 @@ export default function HomePage() {
           <div className="hero-content">
             <div className="hero-text">
               <h1 className="hero-title">
-                Hey, I&aposmm <span className="gradient-text">Suraksha Regmi</span>
+                Hey, I&apos;m <span className="gradient-text">Suraksha Regmi</span>
               </h1>
               <p className="hero-subtitle">Computer Engineer</p>
               <p className="hero-description">

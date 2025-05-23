@@ -7,7 +7,7 @@ export default function ContactPage() {
       <section className="page-header">
         <div className="container">
           <h1 className="page-title">Get In Touch</h1>
-          <p className="page-subtitle">Let&aposms discuss your project</p>
+          <p className="page-subtitle">Let &aposms discuss your project</p>
         </div>
       </section>
 
