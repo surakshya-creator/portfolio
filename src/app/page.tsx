@@ -201,12 +201,12 @@ export default function HomePage() {
             <div className="about-text">
               <h2 className="section-title">About Me</h2>
               <p className="about-description">
-                I&aposmm a passionate full-stack developer with over 5 years of experience in building web applications. I
+                I&apos;m a passionate full-stack developer with over 5 years of experience in building web applications. I
                 specialize in creating responsive, accessible, and performant web applications that provide an excellent
                 user experience.
               </p>
               <p className="about-description">
-                My journey in web development began when I was studying Computer Science, and since then, I&aposmve been
+                My journey in web development began when I was studying Computer Science, and since then, I&apos;ve been
                 constantly learning and adapting to new technologies and methodologies.
               </p>
               <div className="about-buttons">
@@ -223,9 +223,9 @@ export default function HomePage() {
       <section className="section contact-cta">
         <div className="container">
           <div className="cta-content">
-            <h2 className="cta-title">Let&aposms Work Together</h2>
+            <h2 className="cta-title">Let&apos;s Work Together</h2>
             <p className="cta-description">
-              Have a project in mind? I&aposmd love to hear about it. Let&aposms discuss how we can work together to bring your
+              Have a project in mind? I&aposmd love to hear about it. Let&apos;s discuss how we can work together to bring your
               ideas to life.
             </p>
             <Link href="/contact" className="btn btn-primary btn-lg">

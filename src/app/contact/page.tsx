@@ -7,7 +7,7 @@ export default function ContactPage() {
       <section className="page-header">
         <div className="container">
           <h1 className="page-title">Get In Touch</h1>
-          <p className="page-subtitle">Let &aposms discuss your project</p>
+          <p className="page-subtitle">Let &apos;s discuss your project</p>
         </div>
       </section>
 
@@ -17,7 +17,7 @@ export default function ContactPage() {
             <div className="contact-info">
               <h2 className="info-title">Contact Information</h2>
               <p className="info-subtitle">
-                Feel free to reach out to me through any of these channels. I&aposmm always open to discussing new projects,
+                Feel free to reach out to me through any of these channels. I&apos;m always open to discussing new projects,
                 creative ideas, or opportunities to be part of your vision.
               </p>
 
@@ -56,10 +56,10 @@ export default function ContactPage() {
               <div className="social-links">
                 <h3 className="social-title">Connect with me</h3>
                 <div className="social-icons">
-                  <Link href="https://github.com/yourusername" target="_blank" className="social-icon">
+                  <Link href="https://github.com/surakshya-creator" target="_blank" className="social-icon">
                     <Github className="icon" />
                   </Link>
-                  <Link href="https://linkedin.com/in/yourusername" target="_blank" className="social-icon">
+                  <Link href="https://www.linkedin.com/in/surakshyaregmi/" target="_blank" className="social-icon">
                     <Linkedin className="icon" />
                   </Link>
                   <Link href="https://twitter.com/yourusername" target="_blank" className="social-icon">

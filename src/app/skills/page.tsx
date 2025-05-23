@@ -129,8 +129,8 @@ export default function SkillsPage() {
       <section className="section skills-overview">
         <div className="container">
           <p className="section-intro">
-            As a full-stack developer, I&aposmve cultivated a diverse set of skills across various technologies and domains.
-            I&aposmm constantly learning and expanding my skill set to stay current with the latest industry trends and best
+            As a full-stack developer, I&apos;ve cultivated a diverse set of skills across various technologies and domains.
+            I&apos;m constantly learning and expanding my skill set to stay current with the latest industry trends and best
             practices.
           </p>
 
